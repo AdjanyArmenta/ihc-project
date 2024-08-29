@@ -1,0 +1,142 @@
+
+Moderador:Buenos días, mi nombre es Russel Bonilla. ¿Ustedes cómo se llaman? 
+
+María: María Inés Gamboa.
+
+Moderador: María Inés Gamboa, ok. En este momento vamos a hacer una prueba de la aplicación. La intención es mejorarla, por lo que nos está haciendo una prueba de... O sea, no tiene una calificación para usted, sino para la aplicación.
+
+Moderador: Porque la intención es que sea más fácil de usar para usted. Entonces, no se preocupe si no se logra terminar la actividad. O sea, no es con prisa en nada, sino simplemente ver cómo usted la utiliza.
+
+Moderador: La intención es escuchar igual como todas sus cuestiones, todas las preguntas que tenga. ¿Dudas? Dudas, exacto. Y la intención igual es que vaya hablando.
+
+Moderador: Se llama... en práctica es sobre hablar sobre qué estoy viendo en la aplicación, sobre qué dudas tengo. Y la intención es poder escucharla, más que nada. Entonces, cualquier duda, igual durante el proceso, la intención es que vaya diciendo qué está haciendo en la aplicación.
+
+María: ¿Es hablar o es...? 
+Moderador: Hablar, hablar, sí. Igual, queremos pedirle su permiso para poder grabar esta plática. ¿Está de acuerdo? 
+
+María: Sí.
+
+Moderador: Sí, ok. ¿Los datos eran usados, como dijo el maestro Cambranes, para mejorar la aplicación? Ok. Entonces, ¿podemos comenzar? Primero, acá tenemos dos posibilidades.
+
+Moderador: La intención es que sea una manera fácil de ingresar su CURP. Entonces, como aquí tenemos muchos datos, la intención es que pueda generar su CURP de una manera más fácil, sin tener que... 
+
+María: No tiene que ser el CURP que tenemos. Porque no me lo sé
+
+Moderador: Esa es la intención. Como usted no se sabe su CURP, la intención es poder generar la CURP sin tener que traerla de memoria. Entonces, ¿en dónde cree usted que se debe apretar para que se genere su CURP, sin que usted la tenga que ingresar manualmente? 
+
+María: Creo que en generar.
+
+Moderador: Sí. Perfecto. Entonces, aquí, como puede ver la interfaz, tiene diferentes datos.¿Qué cree que debe hacer ahí? 
+María: Pues aquí me pide mi nombre. Ok. En mi caso, deben ser dos.
+
+Moderador: Sí. Perfecto. ¿En dónde cree que debe apretar? Perfecto.
+
+Moderador: Ahorita, usted debe elegir su sexo en la aplicación. Prácticamente esto lo que está haciendo es que está generando la CURP sin que usted tenga que traerla de memoria. Entonces... Perfecto.
+
+Moderador: Ahorita, ¿qué cree usted que debe hacer? Aquí debe ingresar la entidad donde usted nació. Perfecto. Ok.
+
+Moderador:  Y su fecha de nacimiento. 
+
+María: ¿Número? ¿Número? ¿O no? Lo que me pida. 
+
+Moderador: Usted, por ejemplo, acá, tiene una interfaz con números de fechas. Entonces, puede desplazarse, si usted gusta, hacia la fecha, hacia el año en el que nació. Ah, ok.
+
+María: ¿Para acá le doy? Sí.
+
+Moderador: ¿Y luego? Puede volver a apretar. No. Bueno, ¿cuál cree usted que debe ser lo que debe apretar? Como vio, apretó anterior y volvió a la pantalla anterior.
+
+Moderador: Perfecto. Y ahorita, ¿dónde cree que debe apretar para poder registrar nuevamente? Ok. Y ahí puede ingresar manualmente su fecha o puede ingresarlo acá en los numeritos.
+
+María: Ok. Entonces, hay que eliminarlo todo esto. Perfecto.
+
+María: Qué hago ahora? El 04 sí está bien, pero la demás no. Ok. 
+
+Moderador: Ahí, el campo, es para ver el tipo de formato que va a tener. Entonces, lo que usted debe hacer es como le mencioné anteriormente. Podría poner el año y todo desde acá o escribirlo directamente. Aquí lo pondría. Ajá, con número. 
+
+María: El año nada más. Con la... Buscarlo acá.
+
+Moderador: Ajá, lo podría buscar ahí así. 
+
+María: Aquí falta uno, que es 48.
+
+Moderador:  ¿Dónde cree que debe apretar para avanzar hacia ese año?
+María: Para bajarle, ¿no? Ajá. Aquí es para arriba y aquí es para abajo. Bueno, no.
+
+Moderador: No se preocupe.Esa es la intención, de hecho. Esa es la intención de ver cómo se puede usar la plataforma.
+
+María: Sí, porque yo lo escribiría, ¿no? Ok. Porque aquí me falta...
+
+Moderador:  Por ejemplo, las flechas, como usted vio anteriormente, anterior y salir, sirven para ir hacia la pantalla anterior o hacia la siguiente. 
+
+María: Dónde igual... Yo no quiero ir a la pantalla anterior. Exacto. Yo solo quiero recorrerle un número. 
+
+Moderador: Exacto. Entonces, ¿dónde cree usted que puede apretar para avanzar en los numeritos de... 
+María: Sería para bajarle. Ajá. La verdad aquí sí me descontrola.
+
+Moderador:  Por acá hay flechitas que puede usted ver o apretar para... Perfecto.
+
+María: Ajá. Yo pensé que era más fácil escribirla, ¿no? Ok. Porque veo que... 
+
+Moderador: Sí, sí tiene la posibilidad de escribirla igual. ¿Acá? Con numeritos, sí.
+
+María: ¿Por qué no me dejó borrar? Ok.
+
+Moderador:  No, este ya está borrado, de hecho. O sea, la... ¿Puede escribir ahí mismo? Acá puede escribir encima. Ok. Esa es la intención. ¿Vio? Ya está borrado. Ah, ok.
+
+María: Lo que no sabía.
+
+Moderador: Ok. Lo siguiente. No, ahí puso su año de nacimiento. ¿Qué es lo que necesita? Necesitamos primero el día. Dígame. Después el mes. Sí, después el año. 
+
+María: Acá lo voy a poner. 
+
+Moderador: Sí, el día adelante.
+
+María: Sería 48 o con todo. 
+
+Moderador: Ok, con todo. La fecha que le salía. ¿Se acuerda del numerito que salía antes? De que usted pusiera su fecha. ¿El que salía acá? Acá, en el cuadrito. El numerito que salía antes, que usted dijo que no podía borrar, era por el formato. Entonces, no importaba el numerito, sino la forma que tenía. Entonces, ese numerito tenía en medio. O sea, para separar la fecha del día del mes. Acá del año, del mes, tenía un signo. ¿Cuál era? Creo que era el guión. Era un... Bajo, alto, medio.
+
+Moderador: No, no es bajo. No. No es bajo.
+
+Moderador: De hecho, esta es la intención. Ver cómo podemos... Identificar cuáles cosas se pueden mejorar en la aplicación. Póngale siguiente a ver si avanza.
+
+Moderador:Y si no, siguiente. Perfecto. Y ahorita simplemente faltarían los dos últimos dígitos del curp.
+
+Moderador: Prácticamente este es el curp generada. Y simplemente faltarían los dos últimos dígitos para generar el curp. Esos numeritos... Vi que un compañero los generó con la credencial. Entonces, no sé si en la credencial los está. ¿No trajiste credenciales? Ok. ¿El último número? ¿El último número cómo se genera? El año. No, no se puede generar. No se puede generar. No, no.
+
+María: Pero no traje mi credencial
+
+Moderador: No, no hay problema. Nada más, lo único que quería mandar es cómo interactuaba a lo largo de todo.
+
+Moderador: Sí, bastante bien. Bastante bien. Sí.
+
+Moderador: ¿Puedo poner dos letras al azar? No importa. No importa. Pero, ¿dónde irían después de año? ¿Dónde cree usted que irían esos... 
+
+María: ¿Generar el curp? 
+
+Moderador: Ajá, pero antes de generar el curp debe poner los dos dígitos.
+
+Moderador: Faltarían. ¿Dónde salen los números? ¿En dónde cree que usted debería apretar para que les salgan los números? ¿Dónde salen los dígitos? Ajá. No importa.
+
+María: Ahorita... Dice generar los dos dígitos. Ya, me regreso. Ajá.
+
+Moderador: Perfecto. Ahorita solo un paso, le falta un paso más. Sí. En este caso, lo que faltaría son los últimos dos dígitos que normalmente están en la credencial. Pero, como no trajo su credencial, lo importante es poner cualquier dígito y damos por concluida la actividad.
+
+María: Pero no puedo.
+
+Moderador: ¿En dónde más puede presionar? 
+María: Aquí no, porque me regreso. Aqui dice salir.
+
+Moderador: ¿Qué otro espacio ve dónde pueda escribir? Acá. Perfecto. Y ahí pone dos dígitos.
+
+ModeradorLe pongo una letra y un número. 
+María:Una letra y un número. 
+
+Moderador: Acá primero una letra y después un número, cualquiera.
+
+Moderador: Sí. Perfecto. ¿Ahorita cuál cree que sea el último paso que debería hacer? 
+María: Generar.
+
+Moderador: Perfecto. ¿Y ya? 
+María: ¡Oh! 
+Moderador: Con eso ya generaría su QR. Entonces, ahorita la intención es ver si usted igual puede generar su QR de igual manera que con la app de la tablet, con su teléfono.
+

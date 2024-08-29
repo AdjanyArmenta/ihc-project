@@ -1,0 +1,11 @@
+Javier: Mi nombre es Javier Fernando Palma Sauri. 
+Javier: ¿Cómo lo borro?
+Moderador: ¿Perdón?
+
+Javier: Es que está mal.
+Moderador: ¿Qué está mal? ¿La fecha de nacimiento? 
+Javier: Sí, está mal. Era 27, pero salió 28. Ok.
+
+Moderador: Puede recorrer los mismos pasos que hizo anteriormente con el calendario. Igual que antes, puede ingresar dos dígitos, los que sea. No es importante que sea exacto. Excelente. Con esto ya finalizo.
+
+[Javier no comentó tanto durante la prueba solo en la parte donde se equivocó]
